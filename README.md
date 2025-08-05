@@ -1,6 +1,7 @@
 ## Hi, I'm Joshua 👋
 
 📍 New York City  
+Incoming Junior Coder Apprentice at JPMC, and Student at Brooklyn Technical High School pursuing CS
 
 ![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshf80&show_icons=true&theme=default&hide_border=true)
 
