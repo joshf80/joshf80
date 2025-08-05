@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Joshua 👋
 
-<!--
-**joshf80/joshf80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 New York City  
 
-Here are some ideas to get you started:
+![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshf80&show_icons=true&theme=default&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Projects
+- [Multilingual Jailbreak KD](https://github.com/joshf80/multilingual-jailbreak-kd)  
+  `Python` `LLM Security`  
+  *Researching robustness generalization through cross-lingual model distillation*
+- [C++ Game](https://github.com/joshf80/neuroshoot)  
+  `C++` `Algorithms`  
+  *Learning more about C++ usage and implementing pathfidning algorithms*
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshuafranco08/)
