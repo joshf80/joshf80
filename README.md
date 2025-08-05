@@ -15,7 +15,7 @@
 > <img src="https://github.com/joshf80/neuroshoot/blob/fccb24b69403ebdc34f0cbb9c0045b8c712e29e4/assets/NeuroShoot.png" width="250" align="right"/>
 - [C++ Game](https://github.com/joshf80/neuroshoot)  
   `C++` `Algorithms`  
-  *Learning more about C++ usage and implementing pathfidning algorithms*
+  *Learning more about C++ usage and implementing pathfinding algorithms*
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshuafranco08/)
